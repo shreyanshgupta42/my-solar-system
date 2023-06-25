@@ -1,3 +1,7 @@
+Video below shows how the app works
+
+https://github.com/shreyanshgupta42/my-solar-system/assets/57253725/4d8f978c-335d-4594-9be2-0e72c9b324ff
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
